@@ -1,6 +1,6 @@
 ### Vinicius Matheus na área! 👋
 
-- 🔭 Área de produção e armazenamento de alimentos.
+- 🔭 Produção e armazenamento de alimentos.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas.
 
 ##
