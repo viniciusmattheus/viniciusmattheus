@@ -3,13 +3,11 @@
 - 🌱 Graduated in Systems Analysis and Development.
 
 ##
-
 <div>
-  <a href="https://github.com/viniciusmatheus_">
+  <a href="https://github.com/viniciusmattheus">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusmattheus&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmattheus&layout=compact&langs_count=7&theme=nord"/>
 </div>
-
 ##
 
 #### Network:
